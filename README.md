@@ -12,7 +12,7 @@ Rexburg, Idaho
 - Developed a secure, comprehensive data dashboard for district leaders using Python, Dash, and OAuth, integrating an API to pull survey data from seven schools for students, parents, and staff.
 - Visualized key metrics like testing scores and attendance with advanced plotting packages, providing actionable insights for decision-makers.
 
-### Exploration of Student Performance [Link](https://htmlpreview.github.io/?https://github.com/samuelmower/resume/blob/main/R/Semester%20Project/Semester%20Project.html)
+###[Exploration of Student Performance](https://htmlpreview.github.io/?https://github.com/samuelmower/resume/blob/main/R/Semester%20Project/Semester%20Project.html)
 - Conducted data wrangling and statistical analysis on MATH221 student performance, applying statistical methods to test hypotheses and identify significant predictors of success.
 - Developed visualizations to effectively communicate findings, supporting data-driven educational strategies.
 
