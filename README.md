@@ -17,6 +17,3 @@ Rexburg, Idaho
 - Developed visualizations to effectively communicate findings, supporting data-driven educational strategies.
 
 ### PROFESSIONAL EXPERIENCE
-
-
-##  [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
