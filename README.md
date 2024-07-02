@@ -1,8 +1,9 @@
 # Samuel Mower's Resume
 
 ## EDUCATION
-#### Bachelor's degree / Data Science
+### Bachelor's degree / Data Science
 _Brigham Young University-Idaho_
+
 2019 - Exp. Grad. 12/24
 Rexburg, Idaho
 
