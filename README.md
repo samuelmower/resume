@@ -7,10 +7,12 @@ _Brigham Young University-Idaho_
 Rexburg, Idaho
 
 ## PROJECTS
-#### Fremont County School District Dashboard
+### Fremont County School District Dashboard
 - Developed a secure, comprehensive data dashboard for district leaders using Python, Dash, and OAuth, integrating an API to pull survey data from seven schools for students, parents, and staff.
 - Visualized key metrics like testing scores and attendance with advanced plotting packages, providing actionable insights for decision-makers.
 
-#### Exploration of Student Performance
+### Exploration of Student Performance
 - Conducted data wrangling and statistical analysis on MATH221 student performance, applying statistical methods to test hypotheses and identify significant predictors of success.
 - Developed visualizations to effectively communicate findings, supporting data-driven educational strategies.
+
+### PROFESSIONAL EXPERIENCE
